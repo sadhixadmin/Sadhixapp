@@ -10,7 +10,7 @@ const PORT = 3000; // You can change the port if needed
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'password',
+  password: 'Password@1234',
   database: 'sadhixdb'
 });
 
