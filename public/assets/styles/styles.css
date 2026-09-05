@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right, #c1e3FF, #ABC7FF, #8F71FF);
+}
+#get-user-details-form .form-row {
+    margin-bottom: 20px;
+}
+#get-user-details-form #get-user-details {
+display: block;
+}
